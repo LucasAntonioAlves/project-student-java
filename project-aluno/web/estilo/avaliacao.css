@@ -1,0 +1,26 @@
+
+body {
+        background: rgb(128,128,128);
+
+}
+
+div#interface {
+				background: black;
+                                background: orange;
+				width: 1200px;
+				margin: 15px auto 0px auto;
+				padding: 9px;	
+				}
+    
+                                a {
+					color: black;
+					font-size: 13px;
+					font-family: arial black, verdana;
+                                }
+				a:hover {
+					color: red;
+                                }
+				a:active {
+					color: blue;
+						}
+                                                

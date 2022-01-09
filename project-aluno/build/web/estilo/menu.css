@@ -1,0 +1,27 @@
+.menu ul li {   /* Formatação do Menu */
+    magin: 0; 
+    list-style: none; /* Tirar pontos na frente da lista */
+    float: left; 
+    display: block;
+    border-right: none;
+    background-color: #FFF;
+}
+.menu ul li a {
+    float:left;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    display: block;    
+}
+.menu ul li a:hover {
+    background-color: #ccc;
+    border-radius: 0px 0px 10px 10px;
+}
+.menu ul {
+    width: 100%;
+    padding: 0;
+    float: left;
+    display:block;
+    border: none;
+}   
